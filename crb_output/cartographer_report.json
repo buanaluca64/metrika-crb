@@ -1,0 +1,731 @@
+{
+  "report_id": "CART-20260325164041",
+  "unit_ids": [
+    "KEN-TRK",
+    "KEN-MST",
+    "KEN-MAN",
+    "KEN-WJR",
+    "KEN-GAR",
+    "KEN-ISD",
+    "KEN-SMB",
+    "KEN-TNA",
+    "KEN-LMU",
+    "KEN-KTI"
+  ],
+  "generated_at": "2026-03-25T16:40:41.322662+00:00",
+  "n_units": 10,
+  "spatial_units": {
+    "KEN-TRK": {
+      "unit_id": "KEN-TRK",
+      "unit_name": "Turkana",
+      "country": "Kenya",
+      "admin_level": 2,
+      "centroid_lat": 3.12,
+      "centroid_lon": 35.96,
+      "area_km2": 77000,
+      "population": 1366900,
+      "irs": 0.422,
+      "irs_trend": 0.008,
+      "sector_scores": {},
+      "access_hrs": 8.5,
+      "guardian_grade": "C",
+      "n_neighbours": 2
+    },
+    "KEN-MST": {
+      "unit_id": "KEN-MST",
+      "unit_name": "Marsabit",
+      "country": "Kenya",
+      "admin_level": 2,
+      "centroid_lat": 2.33,
+      "centroid_lon": 37.99,
+      "area_km2": 70961,
+      "population": 459785,
+      "irs": 0.391,
+      "irs_trend": -0.003,
+      "sector_scores": {},
+      "access_hrs": 9.2,
+      "guardian_grade": "C",
+      "n_neighbours": 5
+    },
+    "KEN-MAN": {
+      "unit_id": "KEN-MAN",
+      "unit_name": "Mandera",
+      "country": "Kenya",
+      "admin_level": 2,
+      "centroid_lat": 3.94,
+      "centroid_lon": 41.86,
+      "area_km2": 25797,
+      "population": 1185765,
+      "irs": 0.318,
+      "irs_trend": -0.006,
+      "sector_scores": {},
+      "access_hrs": 10.1,
+      "guardian_grade": "D",
+      "n_neighbours": 1
+    },
+    "KEN-WJR": {
+      "unit_id": "KEN-WJR",
+      "unit_name": "Wajir",
+      "country": "Kenya",
+      "admin_level": 2,
+      "centroid_lat": 1.75,
+      "centroid_lon": 40.06,
+      "area_km2": 56686,
+      "population": 781263,
+      "irs": 0.342,
+      "irs_trend": -0.004,
+      "sector_scores": {},
+      "access_hrs": 9.8,
+      "guardian_grade": "C",
+      "n_neighbours": 6
+    },
+    "KEN-GAR": {
+      "unit_id": "KEN-GAR",
+      "unit_name": "Garissa",
+      "country": "Kenya",
+      "admin_level": 2,
+      "centroid_lat": -0.45,
+      "centroid_lon": 39.65,
+      "area_km2": 44175,
+      "population": 841353,
+      "irs": 0.388,
+      "irs_trend": 0.002,
+      "sector_scores": {},
+      "access_hrs": 7.4,
+      "guardian_grade": "C",
+      "n_neighbours": 6
+    },
+    "KEN-ISD": {
+      "unit_id": "KEN-ISD",
+      "unit_name": "Isiolo",
+      "country": "Kenya",
+      "admin_level": 2,
+      "centroid_lat": 0.35,
+      "centroid_lon": 38.49,
+      "area_km2": 25336,
+      "population": 268002,
+      "irs": 0.461,
+      "irs_trend": 0.005,
+      "sector_scores": {},
+      "access_hrs": 5.1,
+      "guardian_grade": "B",
+      "n_neighbours": 6
+    },
+    "KEN-SMB": {
+      "unit_id": "KEN-SMB",
+      "unit_name": "Samburu",
+      "country": "Kenya",
+      "admin_level": 2,
+      "centroid_lat": 1.22,
+      "centroid_lon": 36.95,
+      "area_km2": 20182,
+      "population": 310327,
+      "irs": 0.448,
+      "irs_trend": 0.003,
+      "sector_scores": {},
+      "access_hrs": 6.8,
+      "guardian_grade": "C",
+      "n_neighbours": 6
+    },
+    "KEN-TNA": {
+      "unit_id": "KEN-TNA",
+      "unit_name": "Tana River",
+      "country": "Kenya",
+      "admin_level": 2,
+      "centroid_lat": -1.0,
+      "centroid_lon": 39.77,
+      "area_km2": 35375,
+      "population": 315943,
+      "irs": 0.412,
+      "irs_trend": -0.001,
+      "sector_scores": {},
+      "access_hrs": 6.2,
+      "guardian_grade": "C",
+      "n_neighbours": 6
+    },
+    "KEN-LMU": {
+      "unit_id": "KEN-LMU",
+      "unit_name": "Lamu",
+      "country": "Kenya",
+      "admin_level": 2,
+      "centroid_lat": -2.27,
+      "centroid_lon": 40.9,
+      "area_km2": 6497,
+      "population": 143920,
+      "irs": 0.489,
+      "irs_trend": 0.01,
+      "sector_scores": {},
+      "access_hrs": 5.5,
+      "guardian_grade": "B",
+      "n_neighbours": 4
+    },
+    "KEN-KTI": {
+      "unit_id": "KEN-KTI",
+      "unit_name": "Kwale",
+      "country": "Kenya",
+      "admin_level": 2,
+      "centroid_lat": -4.18,
+      "centroid_lon": 39.45,
+      "area_km2": 8270,
+      "population": 866820,
+      "irs": 0.502,
+      "irs_trend": 0.009,
+      "sector_scores": {},
+      "access_hrs": 3.8,
+      "guardian_grade": "B",
+      "n_neighbours": 2
+    }
+  },
+  "lisa_results": {
+    "KEN-TRK": {
+      "unit_id": "KEN-TRK",
+      "local_moran_i": 0.0035,
+      "z_score": 0.3047,
+      "p_value": 0.976,
+      "cluster_type": "NS",
+      "lag_irs": 0.4197
+    },
+    "KEN-MST": {
+      "unit_id": "KEN-MST",
+      "local_moran_i": 0.0012,
+      "z_score": 0.3223,
+      "p_value": 0.992,
+      "cluster_type": "NS",
+      "lag_irs": 0.4172
+    },
+    "KEN-MAN": {
+      "unit_id": "KEN-MAN",
+      "local_moran_i": 2.3151,
+      "z_score": 2.5606,
+      "p_value": 0.042,
+      "cluster_type": "LL",
+      "lag_irs": 0.342
+    },
+    "KEN-WJR": {
+      "unit_id": "KEN-WJR",
+      "local_moran_i": 0.3063,
+      "z_score": 1.6258,
+      "p_value": 0.192,
+      "cluster_type": "NS",
+      "lag_irs": 0.4042
+    },
+    "KEN-GAR": {
+      "unit_id": "KEN-GAR",
+      "local_moran_i": -0.0497,
+      "z_score": 0.1921,
+      "p_value": 0.748,
+      "cluster_type": "NS",
+      "lag_irs": 0.4228
+    },
+    "KEN-ISD": {
+      "unit_id": "KEN-ISD",
+      "local_moran_i": -0.154,
+      "z_score": -0.0943,
+      "p_value": 0.412,
+      "cluster_type": "NS",
+      "lag_irs": 0.4059
+    },
+    "KEN-SMB": {
+      "unit_id": "KEN-SMB",
+      "local_moran_i": -0.0913,
+      "z_score": 0.0819,
+      "p_value": 0.584,
+      "cluster_type": "NS",
+      "lag_irs": 0.4077
+    },
+    "KEN-TNA": {
+      "unit_id": "KEN-TNA",
+      "local_moran_i": -0.0091,
+      "z_score": 0.2047,
+      "p_value": 0.944,
+      "cluster_type": "NS",
+      "lag_irs": 0.4229
+    },
+    "KEN-LMU": {
+      "unit_id": "KEN-LMU",
+      "local_moran_i": 0.3985,
+      "z_score": 1.2868,
+      "p_value": 0.274,
+      "cluster_type": "NS",
+      "lag_irs": 0.4353
+    },
+    "KEN-KTI": {
+      "unit_id": "KEN-KTI",
+      "local_moran_i": 1.015,
+      "z_score": 1.7269,
+      "p_value": 0.126,
+      "cluster_type": "NS",
+      "lag_irs": 0.456
+    }
+  },
+  "spillover_results": {
+    "KEN-TRK": {
+      "unit_id": "KEN-TRK",
+      "direct_effect": 1.0128,
+      "indirect_effect": 0.3206,
+      "total_effect": 1.3333,
+      "spillover_ratio": 0.3165,
+      "high_leverage": true
+    },
+    "KEN-MST": {
+      "unit_id": "KEN-MST",
+      "direct_effect": 1.0178,
+      "indirect_effect": 0.3155,
+      "total_effect": 1.3333,
+      "spillover_ratio": 0.31,
+      "high_leverage": true
+    },
+    "KEN-MAN": {
+      "unit_id": "KEN-MAN",
+      "direct_effect": 1.0093,
+      "indirect_effect": 0.324,
+      "total_effect": 1.3333,
+      "spillover_ratio": 0.321,
+      "high_leverage": true
+    },
+    "KEN-WJR": {
+      "unit_id": "KEN-WJR",
+      "direct_effect": 1.0184,
+      "indirect_effect": 0.3149,
+      "total_effect": 1.3333,
+      "spillover_ratio": 0.3092,
+      "high_leverage": true
+    },
+    "KEN-GAR": {
+      "unit_id": "KEN-GAR",
+      "direct_effect": 1.0228,
+      "indirect_effect": 0.3105,
+      "total_effect": 1.3333,
+      "spillover_ratio": 0.3036,
+      "high_leverage": true
+    },
+    "KEN-ISD": {
+      "unit_id": "KEN-ISD",
+      "direct_effect": 1.0142,
+      "indirect_effect": 0.3192,
+      "total_effect": 1.3333,
+      "spillover_ratio": 0.3147,
+      "high_leverage": true
+    },
+    "KEN-SMB": {
+      "unit_id": "KEN-SMB",
+      "direct_effect": 1.0172,
+      "indirect_effect": 0.3161,
+      "total_effect": 1.3333,
+      "spillover_ratio": 0.3108,
+      "high_leverage": true
+    },
+    "KEN-TNA": {
+      "unit_id": "KEN-TNA",
+      "direct_effect": 1.0243,
+      "indirect_effect": 0.309,
+      "total_effect": 1.3333,
+      "spillover_ratio": 0.3017,
+      "high_leverage": true
+    },
+    "KEN-LMU": {
+      "unit_id": "KEN-LMU",
+      "direct_effect": 1.0164,
+      "indirect_effect": 0.3169,
+      "total_effect": 1.3333,
+      "spillover_ratio": 0.3118,
+      "high_leverage": true
+    },
+    "KEN-KTI": {
+      "unit_id": "KEN-KTI",
+      "direct_effect": 1.0115,
+      "indirect_effect": 0.3218,
+      "total_effect": 1.3333,
+      "spillover_ratio": 0.3181,
+      "high_leverage": true
+    }
+  },
+  "change_detection": {
+    "KEN-TRK": {
+      "unit_id": "KEN-TRK",
+      "indicator": "IRS",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "values": [
+        0.3782,
+        0.4004,
+        0.3846,
+        0.3884,
+        0.422
+      ],
+      "mk_tau": 0.6,
+      "mk_p": 0.2207,
+      "sens_slope": 0.00553,
+      "trend_dir": "NO_TREND",
+      "trend_strength": "NONE",
+      "breakpoint_yr": null
+    },
+    "KEN-MST": {
+      "unit_id": "KEN-MST",
+      "indicator": "IRS",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "values": [
+        0.4267,
+        0.4167,
+        0.4084,
+        0.3942,
+        0.391
+      ],
+      "mk_tau": -1.0,
+      "mk_p": 0.0275,
+      "sens_slope": -0.00904,
+      "trend_dir": "DECREASING",
+      "trend_strength": "STRONG",
+      "breakpoint_yr": null
+    },
+    "KEN-MAN": {
+      "unit_id": "KEN-MAN",
+      "indicator": "IRS",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "values": [
+        0.3369,
+        0.3242,
+        0.3243,
+        0.3079,
+        0.318
+      ],
+      "mk_tau": -0.6,
+      "mk_p": 0.2207,
+      "sens_slope": -0.00551,
+      "trend_dir": "NO_TREND",
+      "trend_strength": "NONE",
+      "breakpoint_yr": null
+    },
+    "KEN-WJR": {
+      "unit_id": "KEN-WJR",
+      "indicator": "IRS",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "values": [
+        0.3634,
+        0.3453,
+        0.3492,
+        0.3449,
+        0.342
+      ],
+      "mk_tau": -0.8,
+      "mk_p": 0.0864,
+      "sens_slope": -0.00396,
+      "trend_dir": "DECREASING",
+      "trend_strength": "STRONG",
+      "breakpoint_yr": null
+    },
+    "KEN-GAR": {
+      "unit_id": "KEN-GAR",
+      "indicator": "IRS",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "values": [
+        0.4024,
+        0.3929,
+        0.3914,
+        0.3892,
+        0.388
+      ],
+      "mk_tau": -1.0,
+      "mk_p": 0.0275,
+      "sens_slope": -0.00203,
+      "trend_dir": "DECREASING",
+      "trend_strength": "STRONG",
+      "breakpoint_yr": null
+    },
+    "KEN-ISD": {
+      "unit_id": "KEN-ISD",
+      "indicator": "IRS",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "values": [
+        0.4419,
+        0.4471,
+        0.449,
+        0.4515,
+        0.461
+      ],
+      "mk_tau": 1.0,
+      "mk_p": 0.0275,
+      "sens_slope": 0.00409,
+      "trend_dir": "INCREASING",
+      "trend_strength": "STRONG",
+      "breakpoint_yr": null
+    },
+    "KEN-SMB": {
+      "unit_id": "KEN-SMB",
+      "indicator": "IRS",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "values": [
+        0.4337,
+        0.4259,
+        0.4364,
+        0.4439,
+        0.448
+      ],
+      "mk_tau": 0.8,
+      "mk_p": 0.0864,
+      "sens_slope": 0.00496,
+      "trend_dir": "INCREASING",
+      "trend_strength": "STRONG",
+      "breakpoint_yr": null
+    },
+    "KEN-TNA": {
+      "unit_id": "KEN-TNA",
+      "indicator": "IRS",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "values": [
+        0.4184,
+        0.4199,
+        0.4181,
+        0.4309,
+        0.412
+      ],
+      "mk_tau": -0.2,
+      "mk_p": 0.8065,
+      "sens_slope": -0.00089,
+      "trend_dir": "NO_TREND",
+      "trend_strength": "NONE",
+      "breakpoint_yr": null
+    },
+    "KEN-LMU": {
+      "unit_id": "KEN-LMU",
+      "indicator": "IRS",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "values": [
+        0.4452,
+        0.4682,
+        0.4672,
+        0.4623,
+        0.489
+      ],
+      "mk_tau": 0.4,
+      "mk_p": 0.4624,
+      "sens_slope": 0.00891,
+      "trend_dir": "NO_TREND",
+      "trend_strength": "NONE",
+      "breakpoint_yr": null
+    },
+    "KEN-KTI": {
+      "unit_id": "KEN-KTI",
+      "indicator": "IRS",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "values": [
+        0.4607,
+        0.4682,
+        0.4782,
+        0.4855,
+        0.502
+      ],
+      "mk_tau": 1.0,
+      "mk_p": 0.0275,
+      "sens_slope": 0.00934,
+      "trend_dir": "INCREASING",
+      "trend_strength": "STRONG",
+      "breakpoint_yr": null
+    }
+  },
+  "priority_surface": [
+    {
+      "unit_id": "KEN-MAN",
+      "irs": 0.318,
+      "irs_trend": -0.00551,
+      "cluster_type": "LL",
+      "access_hrs": 10.1,
+      "population": 1185765,
+      "guardian_grade": "D",
+      "priority_score": 0.8778,
+      "priority_rank": 1,
+      "priority_tier": "CRITICAL",
+      "priority_rationale": "Very low IRS (0.318); Spatial cluster: LL; High spillover (ratio=0.32); Remote (10.1hr)"
+    },
+    {
+      "unit_id": "KEN-WJR",
+      "irs": 0.342,
+      "irs_trend": -0.00396,
+      "cluster_type": "NS",
+      "access_hrs": 9.8,
+      "population": 781263,
+      "guardian_grade": "C",
+      "priority_score": 0.8093,
+      "priority_rank": 2,
+      "priority_tier": "CRITICAL",
+      "priority_rationale": "Very low IRS (0.342); Negative trend (MK); High spillover (ratio=0.31); Remote (9.8hr)"
+    },
+    {
+      "unit_id": "KEN-GAR",
+      "irs": 0.388,
+      "irs_trend": -0.00203,
+      "cluster_type": "NS",
+      "access_hrs": 7.4,
+      "population": 841353,
+      "guardian_grade": "C",
+      "priority_score": 0.7036,
+      "priority_rank": 3,
+      "priority_tier": "CRITICAL",
+      "priority_rationale": "Negative trend (MK); High spillover (ratio=0.30)"
+    },
+    {
+      "unit_id": "KEN-MST",
+      "irs": 0.391,
+      "irs_trend": -0.00904,
+      "cluster_type": "NS",
+      "access_hrs": 9.2,
+      "population": 459785,
+      "guardian_grade": "C",
+      "priority_score": 0.6804,
+      "priority_rank": 4,
+      "priority_tier": "HIGH",
+      "priority_rationale": "Negative trend (MK); High spillover (ratio=0.31); Remote (9.2hr)"
+    },
+    {
+      "unit_id": "KEN-TRK",
+      "irs": 0.422,
+      "irs_trend": 0.00553,
+      "cluster_type": "NS",
+      "access_hrs": 8.5,
+      "population": 1366900,
+      "guardian_grade": "C",
+      "priority_score": 0.63,
+      "priority_rank": 5,
+      "priority_tier": "HIGH",
+      "priority_rationale": "High spillover (ratio=0.32); Remote (8.5hr)"
+    },
+    {
+      "unit_id": "KEN-TNA",
+      "irs": 0.412,
+      "irs_trend": -0.00089,
+      "cluster_type": "NS",
+      "access_hrs": 6.2,
+      "population": 315943,
+      "guardian_grade": "C",
+      "priority_score": 0.4809,
+      "priority_rank": 6,
+      "priority_tier": "MEDIUM",
+      "priority_rationale": "High spillover (ratio=0.30)"
+    },
+    {
+      "unit_id": "KEN-SMB",
+      "irs": 0.448,
+      "irs_trend": 0.00496,
+      "cluster_type": "NS",
+      "access_hrs": 6.8,
+      "population": 310327,
+      "guardian_grade": "C",
+      "priority_score": 0.3311,
+      "priority_rank": 7,
+      "priority_tier": "MEDIUM",
+      "priority_rationale": "High spillover (ratio=0.31)"
+    },
+    {
+      "unit_id": "KEN-LMU",
+      "irs": 0.489,
+      "irs_trend": 0.00891,
+      "cluster_type": "NS",
+      "access_hrs": 5.5,
+      "population": 143920,
+      "guardian_grade": "B",
+      "priority_score": 0.3232,
+      "priority_rank": 8,
+      "priority_tier": "MEDIUM",
+      "priority_rationale": "High spillover (ratio=0.31)"
+    },
+    {
+      "unit_id": "KEN-ISD",
+      "irs": 0.461,
+      "irs_trend": 0.00409,
+      "cluster_type": "NS",
+      "access_hrs": 5.1,
+      "population": 268002,
+      "guardian_grade": "B",
+      "priority_score": 0.2777,
+      "priority_rank": 9,
+      "priority_tier": "LOW",
+      "priority_rationale": "High spillover (ratio=0.31)"
+    },
+    {
+      "unit_id": "KEN-KTI",
+      "irs": 0.502,
+      "irs_trend": 0.00934,
+      "cluster_type": "NS",
+      "access_hrs": 3.8,
+      "population": 866820,
+      "guardian_grade": "B",
+      "priority_score": 0.2637,
+      "priority_rank": 10,
+      "priority_tier": "LOW",
+      "priority_rationale": "High spillover (ratio=0.32)"
+    }
+  ],
+  "moran_global_I": 0.3735,
+  "moran_global_p": 0.0,
+  "spatial_autocorr": "CLUSTERED",
+  "hotspots": [],
+  "coldspots": [
+    "KEN-MAN"
+  ],
+  "outliers": [],
+  "recommendations": [
+    "Priority zones (LL coldspots): KEN-MAN. These units form a vulnerability trap \u2014 coordinated multi-county intervention required. Spatial spillovers will amplify returns.",
+    "[#1 PRIORITY] KEN-MAN \u2014 Very low IRS (0.318); Spatial cluster: LL; High spillover (ratio=0.32); Remote (10.1hr). IRS=0.318, cluster=LL.",
+    "[#2 PRIORITY] KEN-WJR \u2014 Very low IRS (0.342); Negative trend (MK); High spillover (ratio=0.31); Remote (9.8hr). IRS=0.342, cluster=NS.",
+    "[#3 PRIORITY] KEN-GAR \u2014 Negative trend (MK); High spillover (ratio=0.30). IRS=0.388, cluster=NS."
+  ]
+}
